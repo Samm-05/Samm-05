@@ -1,54 +1,48 @@
 <h1 align="center">Hi 👋, I'm Samyak Mahatme</h1>
 
-<h3 align="center">AI Engineer &nbsp;•&nbsp; Machine Learning Developer &nbsp;•&nbsp; Full Stack AI Builder</h3>
+<h3 align="center">AI & ML Intern &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Computer+Vision+Engineer;Generative+AI+Builder;Full+Stack+AI+Applications;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Intern;Full+Stack+Web+Developer;Deep+Learning+Enthusiast;Building+Real-World+AI+Projects;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samyakmahatme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://samyak.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samyak-mahatme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:samyak@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=samyakmahatme&style=flat&color=58a6ff" />
+  <img src="https://komarev.com/ghpvc/?username=Samm-05&style=flat&color=58a6ff" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-AI & Machine Learning Developer focused on building **production-ready intelligent systems**. I solve real-world problems through Machine Learning, Deep Learning, Computer Vision, and Generative AI — while shipping full-stack AI applications end to end.
+AI & ML Intern and Full Stack Developer passionate about building intelligent systems that solve real problems. I work at the intersection of machine learning and web development — from training models to shipping complete applications.
 
-- 🌍 Based in Kolhapur, Maharashtra, India
-- 🎯 Currently building AI systems that bridge research and product
-- 🤝 Open to collaborations on AI/ML, Computer Vision, and LLM projects
-- 📫 Reach me at **samyak@email.com**
-
----
-
-## 🚀 Currently Building
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **CourtScribe AI** | AI court transcription assistant with speaker detection & legal summaries | Python · Whisper · FastAPI · LLM |
-| **Document Intelligence Platform** | OCR, extraction, classification, and RAG over documents | PyTorch · LangChain · Weaviate · FastAPI |
-| **Vision Transformer System** | Image classification with ViT architecture & attention visualization | PyTorch · ViT · Gradio |
-| **Resume Analyzer AI** | ATS scoring, skill gap analysis & smart job matching | Python · FastAPI · React · LLM |
+- 🎓 Currently interning and sharpening skills in ML & Full Stack
+- 🤖 Interested in Deep Learning, NLP, and AI-powered applications
+- 💻 Building projects that combine ML backends with modern web frontends
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🚀 Projects
 
-```
-✔ Machine Learning          ✔ Deep Learning
-✔ Computer Vision           ✔ Natural Language Processing
-✔ Generative AI             ✔ RAG Systems
-✔ LLM Fine-Tuning           ✔ AI Agents
-✔ MLOps                     ✔ Multi-Modal AI
-```
+| Project | Description |
+|--------|-------------|
+| **SkillSwap** | AI-based platform for skill exchange and matching |
+| **AudioAuth** | Deepfake voice detection using audio analysis |
+| **Network Intrusion Detection** | ML model to detect malicious network activity |
+| **Multilabel Text Categorization** | NLP pipeline for classifying text into multiple categories |
+| **Recommendation System** | Collaborative filtering using LightFM |
+
+---
+
+## 🧠 Currently Learning
+
+- Data Structures & Algorithms
+- Deep Learning & Neural Networks
+- Machine Learning (advanced techniques)
 
 ---
 
@@ -57,82 +51,76 @@ AI & Machine Learning Developer focused on building **production-ready intellige
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-**AI & ML**
+**AI & Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Backend & Frontend**
+**Web**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Cloud & DevOps**
+**Databases & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- Advanced Deep Learning & Research Paper Implementations
-- MLOps — experiment tracking, model serving, monitoring
-- Kubernetes for scalable AI deployments
-- AWS (Solutions Architect path)
-- Multi-Agent Systems & Agentic AI frameworks
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samyakmahatme&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyakmahatme&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/commits.svg" alt="Commits" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/prs.svg" alt="Pull Requests" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/stars.svg" alt="Stars" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/repos.svg" alt="Repositories" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/merged.svg" alt="Merged PRs" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/issues.svg" alt="Issues" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/followers.svg" alt="Followers" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/Samm-05/contributed.svg" alt="Contributed To" /></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samyakmahatme&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samm-05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </p>
 
 ---
 
 ## 🌱 Career Vision
 
-Building intelligent systems that combine **research, engineering, and product thinking** — creating AI solutions that solve real problems and ship to production. Aspiring to contribute meaningfully to open-source AI and work on systems that reach millions of users.
+Building a career at the intersection of AI and full stack development — shipping intelligent products end to end, from data pipelines to user-facing applications. Focused on growing through real projects, open source, and continuous learning.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/samyakmahatme">
+  <a href="https://www.linkedin.com/in/samyak-mahatme">
     <img src="https://img.shields.io/badge/LinkedIn-Samyak_Mahatme-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://samyak.dev">
-    <img src="https://img.shields.io/badge/Portfolio-samyak.dev-0d1117?style=for-the-badge&logo=vercel" />
   </a>
   &nbsp;
   <a href="mailto:samyak@email.com">
