@@ -131,7 +131,7 @@ Building a career at the intersection of AI and full stack development — shipp
     <img src="https://img.shields.io/badge/LinkedIn-Samyak_Mahatme-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:samyak@email.com">
+  <a href="mailto:samyakmahatme@email.com">
     <img src="https://img.shields.io/badge/Email-samyak@email.com-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
